@@ -6,5 +6,4 @@ int main() {
 
     return 0;
 
-    //gpg test wooooo gpg wooo wooo
 }
