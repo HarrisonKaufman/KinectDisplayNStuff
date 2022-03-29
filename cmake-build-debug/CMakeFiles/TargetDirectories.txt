@@ -1,0 +1,3 @@
+C:/Users/omaha/CLionProjects/KinectDisplayNStuff/cmake-build-debug/CMakeFiles/KinectDisplayNStuff.dir
+C:/Users/omaha/CLionProjects/KinectDisplayNStuff/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omaha/CLionProjects/KinectDisplayNStuff/cmake-build-debug/CMakeFiles/rebuild_cache.dir
