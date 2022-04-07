@@ -8,5 +8,5 @@
 /dataSources.local.xml
 #Ignore them thangs
 cmake-build-debug/
-CMakeLists.txt
 .idea/
+/opencv/
